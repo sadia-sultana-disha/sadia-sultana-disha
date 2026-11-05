@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sadia Sultana Disha 👋
 
-<!--
-**sadia-sultana-disha/sadia-sultana-disha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering student who is trying to turn what I've learned in university into practical skills.
 
-Here are some ideas to get you started:
+I've studied C, C++, Java and Python, and I'm now focusing on web development. I want to get better at writing code, understand how real-world applications work, and build projects of my own.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm learning
+- HTML & CSS
+- JavaScript
+- React
+- Django
+- MySQL
+
+### Languages I've worked with
+- C
+- C++
+- Java
+- Python
+
+### A few things about me
+- Currently exploring full-stack web development.
+- Interested in building useful and practical applications.
+- Always trying to learn something new and improve my skills.
+
+### Find me here
+- GitHub: [sadia-sultana-disha](https://github.com/sadia-sultana-disha)
+- LinkedIn: [Sadia Sultana Disha](https://www.linkedin.com/in/sadia-sultana-disha-637b28410/)
+
+I'm still learning, and I hope to build something worth sharing along the way.
