@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sadia Sultana Disha
 
-<!--
-**sadia-sultana-disha/sadia-sultana-disha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science and Engineering student at United International University, Dhaka.
 
-Here are some ideas to get you started:
+I work mostly in Python, with a focus on data analysis and backend development. I'm currently building a job market analysis project using Bangladeshi job listing data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Python, JavaScript, C, C++, Java
+- **Web:** HTML, CSS, React, Django
+- **Database:** MySQL
+- **Currently learning:** Pandas, NumPy, Advanced SQL, FastAPI, Git
+
+## Projects
+
+- **Bangladesh Job Market Analysis** *(in progress)*
+  Analysis of in-demand skills, salary by city, and fresher opportunities.
+  `Python` `Pandas` `SQL`
+
+- **Fake Job Post Detector** *(planned)*
+  Text classification model, to be deployed as a web app.
+  `Python` `scikit-learn` `Streamlit`
+
+## Contact
+
+- LinkedIn: [Sadia Sultana Disha](https://www.linkedin.com/in/sadia-sultana-disha-637b28410/)
